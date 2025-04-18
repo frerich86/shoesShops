@@ -1,0 +1,25 @@
+.controller p{
+   max-width: 420px;
+  
+}
+.controller{
+    background-color: grey;
+    padding: 20px 10px;
+}
+
+.controller img{
+    height: 80px;
+    width: 80px;
+}
+.controller:hover{
+    border: 2px solid rgba(255, 102, 0, 0.904);
+     background-color: white;
+     border-radius: 5px;
+}
+.all-controller{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 60px;
+   text-align: center;
+  
+}
